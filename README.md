@@ -5,7 +5,7 @@ Just a normal dude, passionate about coding.
 
 <dl>
   <dt>Main programming language:</dt>
-  <dd>- Lua</dd> <br>
+  <dd>- Lua</dd>
   <dt>Mainly focus on:</dt>
   <dd>- Web Server development</dd>
   <dd>- Discord Bot Development</dd>
